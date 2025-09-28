@@ -20,7 +20,7 @@ Examples of puzzles:
 
 ## How to Run
 1. Clone this repository:
-   git clone https://github.com/yourusername/Cryptarithmetic_Solver.git
+   git clone [https://github.com/yourusername/Cryptarithmetic_Solver.git](https://github.com/raffay464/Cryptarithmetic_Solver.git)
 2. Navigate to the project directory:
    cd Cryptarithmetic_Solver
 3. Run the solver:
